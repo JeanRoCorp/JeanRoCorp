@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @JeanRoCorp
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+JeanRoCorp/JeanRoCorp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+I am attesting that this GitHub handle JeanRoCorp is linked to the Tezos account tz1fBbpD667oo8RvEHJsCE4nnGu2PiphZLea for tzprofiles
+
+sig:edsigu5ejxqTW43npSp4R9SjuzZQX7VFgyh9Pif56F5hURy6vqZReqcVigjwdx2szPqNHp8KaVbvpSXP2Z3D5jusB15sq7h6bvA
